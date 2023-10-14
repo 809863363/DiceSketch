@@ -5,7 +5,6 @@ Tracking and estimating persistent items are essential to data-stream tasks. Due
 ---
 ### Files
 - dicesketch.cpp: example about implementation of dicesketch
-- main_hitter.cpp: example about persistent items detection and persistence estimation
 ---
 
 
