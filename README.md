@@ -24,7 +24,7 @@ Ubuntu with g++ and make.
     - We provide two small pcap files in "data" folder for testing.  
     - Specify the path of each pcap file in "iptraces.txt". 
     - Note that one pcap file is regarded as one epoch in our examples. To run
-      the heavy changer example, you need to specify at least two pcap files.
+      the persistence example, you need to specify at least two pcap files.
       
 
 #### Run
