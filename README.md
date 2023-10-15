@@ -23,7 +23,7 @@ Ubuntu with g++ and make.
 - Prepare the pcap files.
     - We provide two small pcap files in "data" folder for testing.  
     - Specify the path of each pcap file in "iptraces.txt". 
-    - Note that one pcap file is regarded as one epoch in our examples. 
+    - Note that one pcap file is regarded as all time windows in our examples. 
       
 
 #### Run
