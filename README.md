@@ -23,8 +23,7 @@ Ubuntu with g++ and make.
 - Prepare the pcap files.
     - We provide two small pcap files in "data" folder for testing.  
     - Specify the path of each pcap file in "iptraces.txt". 
-    - Note that one pcap file is regarded as one epoch in our examples. To run
-      the persistence example, you need to specify at least two pcap files.
+    - Note that one pcap file is regarded as one epoch in our examples. 
       
 
 #### Run
